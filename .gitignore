@@ -1,0 +1,6 @@
+id_ed25519_alpine
+id_ed25519_alpine.pub
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
